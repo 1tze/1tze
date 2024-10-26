@@ -8,8 +8,8 @@ I'm always eager to expand my reach and collaborate with larger, global servers.
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages**: Lua, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: ESX Legacy, Vuetify
+- **Languages**: Lua, JavaScript, HTML, CSS, Vue
+- **Frameworks & Libraries**: ESX Legacy, QB-Core, Vuetify
 - **Other**: UI/UX design for immersive gameplay, SQL databases, problem-solving, creative coding
 
 ---
